@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/szymonhunek/Projects/rejestrKsiazek/rejestrKsiazek/bin/Debug/net9.0-ios/iossimulator-arm64/rejestrKsiazek.app/libmono-component-diagnostics_tracing.dylib
